@@ -1,5 +1,5 @@
 
-module transmitter_tb;
+module tx_tb;
 
 reg pclk;
 reg presetn;
