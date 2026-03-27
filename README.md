@@ -1,0 +1,1 @@
+This repository contains the implementation of a UART 16550 interface with APB bus integration in Verilog, using Xilinx ISE for simulation, Synopsys VC SpyGlass for linting, Synopsys Design Compiler for synthesis.
